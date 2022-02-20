@@ -1,2 +1,2 @@
-# dio_desafio_primeiro_repositorio
+# Desafio de Código DIO
 Criando o primeiro repositório com Git/Github
